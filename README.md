@@ -1,9 +1,10 @@
 # bikcraft
-Projeto inicial Bikcraft do curso HTML e CSS do Origamid com a utilização de flexbox e grid layout CSS
+Projeto inicial de site estático Bikcraft utilizando HTML, CSS e suas propriedades.
 
 # Sobre o projeto
-Primeiro projeto criado no curso para praticar os conhecimentos em HTML e CSS.
-Objetivo do projeto era testar exaustivamente propriedades do CSS Display, Box model, Grid, Flexbox, Pseudo-elementos, Pseudo-classes e Seletores. Além de praticar um HTML semântico, com acessibilidade e responsividade.
+Primeiro projeto criado para praticar os conhecimentos em HTML e CSS.
+Objetivo do projeto era testar exaustivamente propriedades do CSS Display, Box model, Grid, Flexbox, Pseudo-elementos, Pseudo-classes e Seletores. 
+Além de praticar um HTML semântico, com acessibilidade e responsividade.
 
 # Layout do projeto
 
